@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_magic/simple.dart';
+import 'package:flutter_magic/magic.dart';
 
 void main() {
   runApp(const MyApp());
