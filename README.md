@@ -18,7 +18,7 @@ a flutter Syntactic sugar
 ## Usage
 
 ```shell
-flutter pub add fit
+flutter pub add flutter_magic
 ```
 
 ## Example
