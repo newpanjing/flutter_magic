@@ -24,7 +24,7 @@ extension IntExtension on int {
     return context.height * this / 100;
   }
 
-  EdgeInsetsGeometry get paddingAll {
+  EdgeInsetsGeometry get padding {
     return EdgeInsets.all(roundToDouble());
   }
 }
